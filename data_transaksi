@@ -1,0 +1,51 @@
+trx_id,cust_id,cust_name,city,prod_id,prod_name,category,qty,price,trx_time
+TRX-1001,CUST-07,Gita,Surabaya,PROD-01,Laptop Gaming,Elektronik,1,12000000,2026-10-01 09:14:00
+TRX-1002,CUST-01,Andi,Salatiga,PROD-03,Keyboard Mekanikal,Elektronik,3,450000,2026-10-01 12:42:00
+TRX-1003,CUST-03,Citra,Solo,PROD-05,Kopi Arabika 250g,Makanan,2,65000,2026-10-01 15:10:00
+TRX-1004,CUST-08,Hendra,Salatiga,PROD-02,Mouse Wireless,Elektronik,4,150000,2026-10-01 18:05:00
+TRX-1005,CUST-02,Budi,Semarang,PROD-08,Sepatu Running,Pakaian,1,550000,2026-10-01 21:55:00
+TRX-1006,CUST-05,Eko,Jakarta,PROD-07,Kaos Polos Cotton,Pakaian,5,85000,2026-10-02 01:10:00
+TRX-1007,CUST-04,Dewi,Yogyakarta,PROD-04,Monitor 24 Inch,Elektronik,1,1800000,2026-10-02 04:30:00
+TRX-1008,CUST-09,Indah,Semarang,PROD-06,Teh Hijau Organik,Makanan,3,35000,2026-10-02 07:15:00
+TRX-1009,CUST-06,Farhan,Bandung,PROD-01,Laptop Gaming,Elektronik,1,12000000,2026-10-02 10:00:00
+TRX-1010,CUST-10,Joko,Solo,PROD-03,Keyboard Mekanikal,Elektronik,2,450000,2026-10-02 13:40:00
+TRX-1011,CUST-01,Andi,Salatiga,PROD-05,Kopi Arabika 250g,Makanan,4,65000,2026-10-02 16:25:00
+TRX-1012,CUST-03,Citra,Solo,PROD-02,Mouse Wireless,Elektronik,2,150000,2026-10-02 19:10:00
+TRX-1013,CUST-02,Budi,Semarang,PROD-07,Kaos Polos Cotton,Pakaian,3,85000,2026-10-02 22:45:00
+TRX-1014,CUST-07,Gita,Surabaya,PROD-08,Sepatu Running,Pakaian,1,550000,2026-10-03 01:20:00
+TRX-1015,CUST-05,Eko,Jakarta,PROD-04,Monitor 24 Inch,Elektronik,2,1800000,2026-10-03 04:05:00
+TRX-1016,CUST-08,Hendra,Salatiga,PROD-06,Teh Hijau Organik,Makanan,5,35000,2026-10-03 06:50:00
+TRX-1017,CUST-04,Dewi,Yogyakarta,PROD-01,Laptop Gaming,Elektronik,1,12000000,2026-10-03 09:30:00
+TRX-1018,CUST-10,Joko,Solo,PROD-05,Kopi Arabika 250g,Makanan,3,65000,2026-10-03 12:15:00
+TRX-1019,CUST-06,Farhan,Bandung,PROD-03,Keyboard Mekanikal,Elektronik,1,450000,2026-10-03 15:00:00
+TRX-1020,CUST-09,Indah,Semarang,PROD-02,Mouse Wireless,Elektronik,5,150000,2026-10-03 18:40:00
+TRX-1021,CUST-01,Andi,Salatiga,PROD-08,Sepatu Running,Pakaian,2,550000,2026-10-03 21:25:00
+TRX-1022,CUST-02,Budi,Semarang,PROD-04,Monitor 24 Inch,Elektronik,1,1800000,2026-10-04 00:10:00
+TRX-1023,CUST-03,Citra,Solo,PROD-07,Kaos Polos Cotton,Pakaian,4,85000,2026-10-04 03:55:00
+TRX-1024,CUST-05,Eko,Jakarta,PROD-05,Kopi Arabika 250g,Makanan,2,65000,2026-10-04 06:40:00
+TRX-1025,CUST-07,Gita,Surabaya,PROD-06,Teh Hijau Organik,Makanan,3,35000,2026-10-04 09:20:00
+TRX-1026,CUST-08,Hendra,Salatiga,PROD-01,Laptop Gaming,Elektronik,1,12000000,2026-10-04 12:05:00
+TRX-1027,CUST-04,Dewi,Yogyakarta,PROD-03,Keyboard Mekanikal,Elektronik,2,450000,2026-10-04 14:50:00
+TRX-1028,CUST-06,Farhan,Bandung,PROD-02,Mouse Wireless,Elektronik,3,150000,2026-10-04 17:35:00
+TRX-1029,CUST-10,Joko,Solo,PROD-08,Sepatu Running,Pakaian,1,550000,2026-10-04 20:20:00
+TRX-1030,CUST-09,Indah,Semarang,PROD-07,Kaos Polos Cotton,Pakaian,5,85000,2026-10-04 23:05:00
+TRX-1031,CUST-01,Andi,Salatiga,PROD-04,Monitor 24 Inch,Elektronik,1,1800000,2026-10-05 01:50:00
+TRX-1032,CUST-03,Citra,Solo,PROD-06,Teh Hijau Organik,Makanan,4,35000,2026-10-05 04:35:00
+TRX-1033,CUST-02,Budi,Semarang,PROD-05,Kopi Arabika 250g,Makanan,2,65000,2026-10-05 07:20:00
+TRX-1034,CUST-05,Eko,Jakarta,PROD-01,Laptop Gaming,Elektronik,1,12000000,2026-10-05 10:05:00
+TRX-1035,CUST-08,Hendra,Salatiga,PROD-02,Mouse Wireless,Elektronik,3,150000,2026-10-05 12:50:00
+TRX-1036,CUST-07,Gita,Surabaya,PROD-03,Keyboard Mekanikal,Elektronik,1,450000,2026-10-05 15:35:00
+TRX-1037,CUST-04,Dewi,Yogyakarta,PROD-07,Kaos Polos Cotton,Pakaian,2,85000,2026-10-05 18:20:00
+TRX-1038,CUST-10,Joko,Solo,PROD-04,Monitor 24 Inch,Elektronik,1,1800000,2026-10-05 21:05:00
+TRX-1039,CUST-06,Farhan,Bandung,PROD-08,Sepatu Running,Pakaian,2,550000,2026-10-05 23:50:00
+TRX-1040,CUST-09,Indah,Semarang,PROD-05,Kopi Arabika 250g,Makanan,5,65000,2026-10-06 02:35:00
+TRX-1041,CUST-01,Andi,Salatiga,PROD-02,Mouse Wireless,Elektronik,1,150000,2026-10-06 05:20:00
+TRX-1042,CUST-02,Budi,Semarang,PROD-03,Keyboard Mekanikal,Elektronik,2,450000,2026-10-06 08:05:00
+TRX-1043,CUST-03,Citra,Solo,PROD-01,Laptop Gaming,Elektronik,1,12000000,2026-10-06 10:50:00
+TRX-1044,CUST-05,Eko,Jakarta,PROD-06,Teh Hijau Organik,Makanan,3,35000,2026-10-06 13:35:00
+TRX-1045,CUST-07,Gita,Surabaya,PROD-08,Sepatu Running,Pakaian,1,550000,2026-10-06 16:20:00
+TRX-1046,CUST-08,Hendra,Salatiga,PROD-07,Kaos Polos Cotton,Pakaian,4,85000,2026-10-06 19:05:00
+TRX-1047,CUST-04,Dewi,Yogyakarta,PROD-05,Kopi Arabika 250g,Makanan,2,65000,2026-10-06 21:50:00
+TRX-1048,CUST-06,Farhan,Bandung,PROD-04,Monitor 24 Inch,Elektronik,1,1800000,2026-10-07 00:35:00
+TRX-1049,CUST-10,Joko,Solo,PROD-02,Mouse Wireless,Elektronik,3,150000,2026-10-07 03:20:00
+TRX-1050,CUST-09,Indah,Semarang,PROD-01,Laptop Gaming,Elektronik,1,12000000,2026-10-07 06:05:00
